@@ -1,22 +1,52 @@
 {
-	"movies": [
+	"classesTaken": [
 		{
-			"Title": "Lost In Translation",
-			"Director": "Sofia Coppola",
-			"Rating": "R",
-			"Year": "2003"
+			"Class Number": "INFO 213",
+			"Class Name": "Introduction to User Experience Design",
+			"School Taken At": "UC Berkeley",
+			"Semester": "Fall 2024"
 		},
 		{
-			"Title": "Casino Royale",
-			"Director": "Martin Campbell",
-			"Rating": "PG-13",
-			"Year": "2006"
+			"Class Number": "INFO 206A",
+			"Class Name": "Introduction to Programming and Computation",
+			"School Taken At": "UC Berkeley",
+			"Semester": "Fall 2024"
 		},
-		{
-			"Title": "The Dark Knight",
-			"Director": "Christopher Nolan",
-			"Rating": "PG-13",
-			"Year": "2008"
+        {
+			"Class Number": "INFO C262",
+			"Class Name": "Theory and Practice of Tangible User Interfaces",
+			"School Taken At": "UC Berkeley",
+			"Semester": "Fall 2024"
+		},
+        {
+			"Class Number": "INFO 202",
+			"Class Name": "Information Organization and Retrival",
+			"School Taken At": "UC Berkeley",
+			"Semester": "Fall 2024"
+		},
+        {
+			"Class Number": "05-360",
+			"Class Name": "Interaction Design Fundamentals for HCI",
+			"School Taken At": "Carnegie Mellon",
+			"Semester": "Fall 2023"
+		},
+        {
+			"Class Number": "05-499",
+			"Class Name": "Sustainable Design: Materials, Artifacts, and Computational Tools",
+			"School Taken At": "Carnegie Mellon",
+			"Semester": "Fall 2023"
+		},
+        {
+			"Class Number": "05-391",
+			"Class Name": "Designing Human Centered Software",
+			"School Taken At": "Carnegie Mellon",
+			"Semester": "Spring 2023"
+		},
+        {
+			"Class Number": "05-435",
+			"Class Name": "Applied Fabrication for HCI",
+			"School Taken At": "Carnegie Mellon",
+			"Semester": "Spring 2023"
 		}
 	]
 }
