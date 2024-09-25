@@ -166,7 +166,7 @@ h6, .h6 {
 
 p {
   margin-top: 75px;
-  margin-bottom: 1rem;
+  margin-bottom: 30px;
   text-align: left; /* Changed this to be left instead of center*/
   font-size: 18px; /* Changed to make text larger in the paragraph*/
 }
@@ -308,9 +308,9 @@ figure {
 
 img,
 svg {
+  transform: scale(0.90);
   margin-top: 20px; /* Adds spacing above the image */
   margin-bottom: 20px;
-  margin-right: 50px;
   max-width: 100%; /* Ensures the image scales well */
   height: auto; /* Keeps image aspect ratio */
   border-radius: 25%; /* Makes the image round, if it's a square */
@@ -608,6 +608,7 @@ progress {
 .img-fluid {
   max-width: 100%;
   height: auto;
+  gap: 200px;
 }
 
 .img-thumbnail {
@@ -647,7 +648,6 @@ progress {
   padding-left: calc(var(--bs-gutter-x) * 0.5);
   margin-right: auto;
   margin-left: auto;
-  gap: 20px; /* Adds some space between the image and paragraph */
 }
 
 @media (min-width: 576px) {
