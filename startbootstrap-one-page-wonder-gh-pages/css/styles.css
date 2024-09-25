@@ -310,9 +310,10 @@ img,
 svg {
   margin-top: 20px; /* Adds spacing above the image */
   margin-bottom: 20px;
+  margin-right: 50px;
   max-width: 100%; /* Ensures the image scales well */
   height: auto; /* Keeps image aspect ratio */
-  border-radius: 50%; /* Makes the image round, if it's a square */
+  border-radius: 25%; /* Makes the image round, if it's a square */
 }
 
 table {
